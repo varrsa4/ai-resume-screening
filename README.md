@@ -2,7 +2,7 @@
 
 ## 🚀 Live Demo
 
-Frontend: (paste your Vercel link here)
+Frontend: https://resume-ui-virid.vercel.app
 Backend: https://ai-resume-screening-l7hl.onrender.com
 
 ---
@@ -12,7 +12,7 @@ Backend: https://ai-resume-screening-l7hl.onrender.com
 * Upload Resume (PDF/DOC)
 * Enter Job Description
 * AI analyzes resume
-* Shows:
+* Displays:
 
   * Match Percentage
   * Matched Skills
@@ -23,10 +23,11 @@ Backend: https://ai-resume-screening-l7hl.onrender.com
 
 ## 🛠️ Tech Stack
 
-Frontend: React.js
-Backend: Node.js + Express
-AI: OpenAI / Gemini API
-Deployment:
+* Frontend: React.js
+* Backend: Node.js + Express.js
+* AI: OpenAI / Gemini API
+
+### Deployment:
 
 * Frontend → Vercel
 * Backend → Render
@@ -35,17 +36,17 @@ Deployment:
 
 ## ⚙️ Setup Instructions
 
-### 1. Clone repo
+### 1. Clone Repository
 
-git clone https://github.com/your-username/ai-resume-screening
+git clone https://github.com/varrsa4/ai-resume-screening
 
-### 2. Backend
+### 2. Backend Setup
 
 cd ai-resume-screening
 npm install
 npm start
 
-### 3. Frontend
+### 3. Frontend Setup
 
 cd resume-ui
 npm install
@@ -57,16 +58,22 @@ npm start
 
 1. Resume is uploaded
 2. Text is extracted
-3. Job description is taken as input
-4. AI compares resume with JD
-5. Returns:
+3. Job description is provided
+4. AI compares resume with job description
+5. Outputs:
 
-   * Match %
-   * Skills
+   * Match Percentage
+   * Skills Analysis
    * Summary
 
 ---
 
 ## ✅ Conclusion
 
-This application helps recruiters quickly screen resumes using AI.
+This application helps recruiters quickly screen resumes using AI, reducing manual effort and improving hiring efficiency.
+
+
+
+
+
+ 
